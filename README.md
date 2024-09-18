@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+## Deploy
+- [Link](https://barros263inf.github.io/react_deploy/)
